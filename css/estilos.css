@@ -1,0 +1,99 @@
+*{margin: 0; padding:0;}
+body{
+    background:#fffffa;
+}
+header {
+width:100% ;
+overflow: hidden;
+background:#BC955C;
+margin: bottom 20px;
+}
+.wrapper{
+ width:90%;
+ max-width: 1000px;
+ margin:auto;
+ overflow:hidden;
+}
+header .logo{
+font-size: 50px;
+line-height:10px;
+float: left;
+}
+header nav{
+    float: right;
+    line-height:100px;
+}
+.contenedor {
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Galeria */
+
+.portafolio{
+    background: #9f2241;
+}
+.foto1 {
+     float: center;
+    width: 250px;
+    line-height:10px;
+     padding: 10px; 
+     margin: 10px;
+text-align: center;
+     }
+
+.foto2 {
+    float: center;
+     width: 250px;
+    line-height:10px;
+     padding: 10px; 
+     margin: 10px;
+     text-align: center; 
+}
+
+.foto3 { 
+    float: center;
+    width: 250px;
+    line-height:10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.pie1{
+    background:#9f2241 ;
+}
+
+
+/* footer */
+
+footer{
+    background:#98989A;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+}
+
+.content-foo{
+    text-align: center;
+}
+iframe{
+    margin-bottom: 0px;
+}
+
+.purpl{
+    height: 30px;
+}
+.foto4 { padding: 0px; margin: 0px; float: center; width: 350px; }
